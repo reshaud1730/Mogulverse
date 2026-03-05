@@ -1,8 +1,3 @@
-Gemini said
-To keep your Mogulverse project professional and compliant with Discord's developer requirements, you should host this Privacy Policy in your GitHub repository alongside your code.
-
-Create a new file in your repo named PRIVACY_POLICY.md and paste the content below. This policy is specifically tailored to the data your bot actually collects (Discord IDs and game stats).
-
 🛡️ Mogulverse Privacy Policy
 Effective Date: March 5, 2026
 
